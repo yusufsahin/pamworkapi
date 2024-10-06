@@ -616,43 +616,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yusufsahin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/yusufsahin/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.BAL\\Pamwork.BAL.csproj",
+      "projectUniqueName": "/Users/yusufsahin/RiderProjects/pamworkapi/Pamwork.BAL/Pamwork.BAL.csproj",
       "projectName": "Pamwork.BAL",
-      "projectPath": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.BAL\\Pamwork.BAL.csproj",
-      "packagesPath": "C:\\Users\\yusufsahin\\.nuget\\packages\\",
-      "outputPath": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.BAL\\obj\\",
+      "projectPath": "/Users/yusufsahin/RiderProjects/pamworkapi/Pamwork.BAL/Pamwork.BAL.csproj",
+      "packagesPath": "/Users/yusufsahin/.nuget/packages/",
+      "outputPath": "/Users/yusufsahin/RiderProjects/pamworkapi/Pamwork.BAL/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\yusufsahin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/yusufsahin/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.DAL\\Pamwork.DAL.csproj": {
-              "projectPath": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.DAL\\Pamwork.DAL.csproj"
+            "/Users/yusufsahin/RiderProjects/pamworkapi/Pamwork.DAL/Pamwork.DAL.csproj": {
+              "projectPath": "/Users/yusufsahin/RiderProjects/pamworkapi/Pamwork.DAL/Pamwork.DAL.csproj"
             },
-            "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.Entities\\Pamwork.Entities.csproj": {
-              "projectPath": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.Entities\\Pamwork.Entities.csproj"
+            "/Users/yusufsahin/RiderProjects/pamworkapi/Pamwork.Entities/Pamwork.Entities.csproj": {
+              "projectPath": "/Users/yusufsahin/RiderProjects/pamworkapi/Pamwork.Entities/Pamwork.Entities.csproj"
             }
           }
         }
@@ -661,11 +653,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -687,7 +674,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

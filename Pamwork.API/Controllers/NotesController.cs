@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Pamwork.API.Dtos;
 using Pamwork.BAL.Abstract;
@@ -22,7 +21,7 @@ namespace Pamwork.API.Controllers
             _mapper = mapper;
         }
 
-        // GET api/notes
+        // GET: api/notes
         [HttpGet]
         public async Task<ActionResult<List<NoteDto>>> GetAsync()
         {
@@ -35,7 +34,7 @@ namespace Pamwork.API.Controllers
             return Ok(_mapper.Map<IList<NoteDto>>(notes));
         }
 
-        // GET api/notes/{id}
+        // GET: api/notes/{id}
         [HttpGet("{id}")]
         public async Task<ActionResult<NoteDto>> GetByIdAsync(int id)
         {
@@ -48,7 +47,7 @@ namespace Pamwork.API.Controllers
             return Ok(_mapper.Map<NoteDto>(note));
         }
 
-        // POST api/notes
+        // POST: api/notes
         [HttpPost]
         public async Task<ActionResult<NoteDto>> AddAsync([FromBody] NoteDto noteVM)
         {
@@ -60,10 +59,20 @@ namespace Pamwork.API.Controllers
             var note = _mapper.Map<Note>(noteVM);
             await _noteService.AddAsync(note);
 
-            return CreatedAtAction(nameof(GetByIdAsync), new { id = note.Id }, _mapper.Map<NoteDto>(note));
+            // Ensure that note.Id is populated after saving to the database
+            if (note.Id == 0) // Adjust this based on how your ID is generated
+            {
+                return BadRequest("Note could not be added, ID is not generated.");
+            }
+
+            // Manually construct the URI of the newly created resource
+            var uri = Url.Action(nameof(GetByIdAsync), new { id = note.Id });
+            
+            // Use Created() to return 201 Created status with the URI and note
+            return Created(uri, _mapper.Map<NoteDto>(note));
         }
 
-        // PUT api/notes/{id}
+        // PUT: api/notes/{id}
         [HttpPut("{id}")]
         public async Task<ActionResult> UpdateAsync(int id, [FromBody] NoteDto noteVM)
         {
@@ -89,7 +98,7 @@ namespace Pamwork.API.Controllers
             return NoContent();
         }
 
-        // DELETE api/notes/{id}
+        // DELETE: api/notes/{id}
         [HttpDelete("{id}")]
         public async Task<ActionResult> RemoveAsync(int id)
         {
@@ -105,4 +114,3 @@ namespace Pamwork.API.Controllers
         }
     }
 }
-
