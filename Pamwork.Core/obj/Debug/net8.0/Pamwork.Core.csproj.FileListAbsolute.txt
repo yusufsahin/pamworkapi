@@ -1,0 +1,12 @@
+C:\Projeler\Pamwork\Pamwork\Pamwork.Core\bin\Debug\net8.0\Pamwork.Core.deps.json
+C:\Projeler\Pamwork\Pamwork\Pamwork.Core\bin\Debug\net8.0\Pamwork.Core.dll
+C:\Projeler\Pamwork\Pamwork\Pamwork.Core\bin\Debug\net8.0\Pamwork.Core.pdb
+C:\Projeler\Pamwork\Pamwork\Pamwork.Core\obj\Debug\net8.0\Pamwork.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\Pamwork\Pamwork\Pamwork.Core\obj\Debug\net8.0\Pamwork.Core.AssemblyInfoInputs.cache
+C:\Projeler\Pamwork\Pamwork\Pamwork.Core\obj\Debug\net8.0\Pamwork.Core.AssemblyInfo.cs
+C:\Projeler\Pamwork\Pamwork\Pamwork.Core\obj\Debug\net8.0\Pamwork.Core.csproj.CoreCompileInputs.cache
+C:\Projeler\Pamwork\Pamwork\Pamwork.Core\obj\Debug\net8.0\Pamwork.Core.dll
+C:\Projeler\Pamwork\Pamwork\Pamwork.Core\obj\Debug\net8.0\refint\Pamwork.Core.dll
+C:\Projeler\Pamwork\Pamwork\Pamwork.Core\obj\Debug\net8.0\Pamwork.Core.pdb
+C:\Projeler\Pamwork\Pamwork\Pamwork.Core\obj\Debug\net8.0\ref\Pamwork.Core.dll
+C:\Projeler\Pamwork\Pamwork\Pamwork.Core\obj\Debug\net8.0\Pamwork.Core.csproj.AssemblyReference.cache

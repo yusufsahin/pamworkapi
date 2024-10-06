@@ -1,0 +1,15 @@
+C:\Projeler\Pamwork\Pamwork\Pamwork.Entities\bin\Debug\net8.0\Pamwork.Entities.deps.json
+C:\Projeler\Pamwork\Pamwork\Pamwork.Entities\bin\Debug\net8.0\Pamwork.Entities.dll
+C:\Projeler\Pamwork\Pamwork\Pamwork.Entities\bin\Debug\net8.0\Pamwork.Entities.pdb
+C:\Projeler\Pamwork\Pamwork\Pamwork.Entities\obj\Debug\net8.0\Pamwork.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\Pamwork\Pamwork\Pamwork.Entities\obj\Debug\net8.0\Pamwork.Entities.AssemblyInfoInputs.cache
+C:\Projeler\Pamwork\Pamwork\Pamwork.Entities\obj\Debug\net8.0\Pamwork.Entities.AssemblyInfo.cs
+C:\Projeler\Pamwork\Pamwork\Pamwork.Entities\obj\Debug\net8.0\Pamwork.Entities.csproj.CoreCompileInputs.cache
+C:\Projeler\Pamwork\Pamwork\Pamwork.Entities\obj\Debug\net8.0\Pamwork.Entities.dll
+C:\Projeler\Pamwork\Pamwork\Pamwork.Entities\obj\Debug\net8.0\refint\Pamwork.Entities.dll
+C:\Projeler\Pamwork\Pamwork\Pamwork.Entities\obj\Debug\net8.0\Pamwork.Entities.pdb
+C:\Projeler\Pamwork\Pamwork\Pamwork.Entities\obj\Debug\net8.0\ref\Pamwork.Entities.dll
+C:\Projeler\Pamwork\Pamwork\Pamwork.Entities\bin\Debug\net8.0\Pamwork.Core.dll
+C:\Projeler\Pamwork\Pamwork\Pamwork.Entities\bin\Debug\net8.0\Pamwork.Core.pdb
+C:\Projeler\Pamwork\Pamwork\Pamwork.Entities\obj\Debug\net8.0\Pamwork.Entities.csproj.AssemblyReference.cache
+C:\Projeler\Pamwork\Pamwork\Pamwork.Entities\obj\Debug\net8.0\Pamwork..BADE0A57.Up2Date

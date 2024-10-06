@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projeler\\Pamwork\\Pamwork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C41020F-2FBF-4382-805E-7DE62B53C166}|Pamwork.API\\Pamwork.API.csproj|c:\\projeler\\pamwork\\pamwork\\pamwork.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C41020F-2FBF-4382-805E-7DE62B53C166}|Pamwork.API\\Pamwork.API.csproj|solutionrelative:pamwork.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C41020F-2FBF-4382-805E-7DE62B53C166}|Pamwork.API\\Pamwork.API.csproj|c:\\projeler\\pamwork\\pamwork\\pamwork.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C41020F-2FBF-4382-805E-7DE62B53C166}|Pamwork.API\\Pamwork.API.csproj|solutionrelative:pamwork.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C41020F-2FBF-4382-805E-7DE62B53C166}|Pamwork.API\\Pamwork.API.csproj|c:\\projeler\\pamwork\\pamwork\\pamwork.api\\pamwork.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8C41020F-2FBF-4382-805E-7DE62B53C166}|Pamwork.API\\Pamwork.API.csproj|solutionrelative:pamwork.api\\pamwork.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C41020F-2FBF-4382-805E-7DE62B53C166}|Pamwork.API\\Pamwork.API.csproj|c:\\projeler\\pamwork\\pamwork\\pamwork.api\\pamwork.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C41020F-2FBF-4382-805E-7DE62B53C166}|Pamwork.API\\Pamwork.API.csproj|solutionrelative:pamwork.api\\pamwork.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C41020F-2FBF-4382-805E-7DE62B53C166}|Pamwork.API\\Pamwork.API.csproj|c:\\projeler\\pamwork\\pamwork\\pamwork.api\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C41020F-2FBF-4382-805E-7DE62B53C166}|Pamwork.API\\Pamwork.API.csproj|solutionrelative:pamwork.api\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C41020F-2FBF-4382-805E-7DE62B53C166}|Pamwork.API\\Pamwork.API.csproj|c:\\projeler\\pamwork\\pamwork\\pamwork.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C41020F-2FBF-4382-805E-7DE62B53C166}|Pamwork.API\\Pamwork.API.csproj|solutionrelative:pamwork.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C41020F-2FBF-4382-805E-7DE62B53C166}|Pamwork.API\\Pamwork.API.csproj|c:\\projeler\\pamwork\\pamwork\\pamwork.api\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C41020F-2FBF-4382-805E-7DE62B53C166}|Pamwork.API\\Pamwork.API.csproj|solutionrelative:pamwork.api\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C41020F-2FBF-4382-805E-7DE62B53C166}|Pamwork.API\\Pamwork.API.csproj|c:\\projeler\\pamwork\\pamwork\\pamwork.api\\dtos\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C41020F-2FBF-4382-805E-7DE62B53C166}|Pamwork.API\\Pamwork.API.csproj|solutionrelative:pamwork.api\\dtos\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DAA15A-D2C9-4C3B-88B8-A25ABE0056A1}|Pamwork.BAL\\Pamwork.BAL.csproj|c:\\projeler\\pamwork\\pamwork\\pamwork.bal\\concrete\\notemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DAA15A-D2C9-4C3B-88B8-A25ABE0056A1}|Pamwork.BAL\\Pamwork.BAL.csproj|solutionrelative:pamwork.bal\\concrete\\notemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DAA15A-D2C9-4C3B-88B8-A25ABE0056A1}|Pamwork.BAL\\Pamwork.BAL.csproj|c:\\projeler\\pamwork\\pamwork\\pamwork.bal\\abstract\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DAA15A-D2C9-4C3B-88B8-A25ABE0056A1}|Pamwork.BAL\\Pamwork.BAL.csproj|solutionrelative:pamwork.bal\\abstract\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DAA15A-D2C9-4C3B-88B8-A25ABE0056A1}|Pamwork.BAL\\Pamwork.BAL.csproj|c:\\projeler\\pamwork\\pamwork\\pamwork.bal\\pamwork.bal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77DAA15A-D2C9-4C3B-88B8-A25ABE0056A1}|Pamwork.BAL\\Pamwork.BAL.csproj|solutionrelative:pamwork.bal\\pamwork.bal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741A59FD-D07D-4D9A-BA03-4657E4C7A461}|Pamwork.DAL\\Pamwork.DAL.csproj|c:\\projeler\\pamwork\\pamwork\\pamwork.dal\\concrete\\efnotedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741A59FD-D07D-4D9A-BA03-4657E4C7A461}|Pamwork.DAL\\Pamwork.DAL.csproj|solutionrelative:pamwork.dal\\concrete\\efnotedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741A59FD-D07D-4D9A-BA03-4657E4C7A461}|Pamwork.DAL\\Pamwork.DAL.csproj|c:\\projeler\\pamwork\\pamwork\\pamwork.dal\\abstract\\inotedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741A59FD-D07D-4D9A-BA03-4657E4C7A461}|Pamwork.DAL\\Pamwork.DAL.csproj|solutionrelative:pamwork.dal\\abstract\\inotedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E026375-9CEA-4A83-9250-AA54EA5249ED}|Pamwork.Core\\Pamwork.Core.csproj|c:\\projeler\\pamwork\\pamwork\\pamwork.core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E026375-9CEA-4A83-9250-AA54EA5249ED}|Pamwork.Core\\Pamwork.Core.csproj|solutionrelative:pamwork.core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741A59FD-D07D-4D9A-BA03-4657E4C7A461}|Pamwork.DAL\\Pamwork.DAL.csproj|c:\\projeler\\pamwork\\pamwork\\pamwork.dal\\concrete\\pamworkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741A59FD-D07D-4D9A-BA03-4657E4C7A461}|Pamwork.DAL\\Pamwork.DAL.csproj|solutionrelative:pamwork.dal\\concrete\\pamworkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741A59FD-D07D-4D9A-BA03-4657E4C7A461}|Pamwork.DAL\\Pamwork.DAL.csproj|c:\\projeler\\pamwork\\pamwork\\pamwork.dal\\pamwork.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{741A59FD-D07D-4D9A-BA03-4657E4C7A461}|Pamwork.DAL\\Pamwork.DAL.csproj|solutionrelative:pamwork.dal\\pamwork.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8B00D3-9102-4AE0-A832-0886FC5F7350}|Pamwork.Entities\\Pamwork.Entities.csproj|c:\\projeler\\pamwork\\pamwork\\pamwork.entities\\concrete\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8B00D3-9102-4AE0-A832-0886FC5F7350}|Pamwork.Entities\\Pamwork.Entities.csproj|solutionrelative:pamwork.entities\\concrete\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E026375-9CEA-4A83-9250-AA54EA5249ED}|Pamwork.Core\\Pamwork.Core.csproj|c:\\projeler\\pamwork\\pamwork\\pamwork.core\\models\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E026375-9CEA-4A83-9250-AA54EA5249ED}|Pamwork.Core\\Pamwork.Core.csproj|solutionrelative:pamwork.core\\models\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E026375-9CEA-4A83-9250-AA54EA5249ED}|Pamwork.Core\\Pamwork.Core.csproj|c:\\projeler\\pamwork\\pamwork\\pamwork.core\\exceptions\\dataaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E026375-9CEA-4A83-9250-AA54EA5249ED}|Pamwork.Core\\Pamwork.Core.csproj|solutionrelative:pamwork.core\\exceptions\\dataaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E026375-9CEA-4A83-9250-AA54EA5249ED}|Pamwork.Core\\Pamwork.Core.csproj|c:\\projeler\\pamwork\\pamwork\\pamwork.core\\dataaccess\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E026375-9CEA-4A83-9250-AA54EA5249ED}|Pamwork.Core\\Pamwork.Core.csproj|solutionrelative:pamwork.core\\dataaccess\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Pamwork.API\\appsettings.json",
+              "ToolTip": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.API\\appsettings.json",
+              "RelativeToolTip": "Pamwork.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T18:18:37.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NoteDto.cs",
+              "DocumentMoniker": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.API\\Dtos\\NoteDto.cs",
+              "RelativeDocumentMoniker": "Pamwork.API\\Dtos\\NoteDto.cs",
+              "ToolTip": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.API\\Dtos\\NoteDto.cs",
+              "RelativeToolTip": "Pamwork.API\\Dtos\\NoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:15:04.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.API\\Helpers\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Pamwork.API\\Helpers\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.API\\Helpers\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Pamwork.API\\Helpers\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:13:34.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pamwork.API",
+              "DocumentMoniker": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.API\\Pamwork.API.csproj",
+              "RelativeDocumentMoniker": "Pamwork.API\\Pamwork.API.csproj",
+              "ToolTip": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.API\\Pamwork.API.csproj",
+              "RelativeToolTip": "Pamwork.API\\Pamwork.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T18:11:49.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Pamwork.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Pamwork.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T18:43:59.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pamwork.API",
+              "DocumentMoniker": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.API\\Pamwork.API.csproj",
+              "RelativeDocumentMoniker": "Pamwork.API\\Pamwork.API.csproj",
+              "ToolTip": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.API\\Pamwork.API.csproj",
+              "RelativeToolTip": "Pamwork.API\\Pamwork.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T18:52:00.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.API\\Program.cs",
+              "RelativeDocumentMoniker": "Pamwork.API\\Program.cs",
+              "ToolTip": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.API\\Program.cs",
+              "RelativeToolTip": "Pamwork.API\\Program.cs",
+              "ViewState": "AgIAADQAAAAAg2ZmZmbwvz8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:21:40.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.API\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "Pamwork.API\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.API\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "Pamwork.API\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:11:22.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NoteManager.cs",
+              "DocumentMoniker": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.BAL\\Concrete\\NoteManager.cs",
+              "RelativeDocumentMoniker": "Pamwork.BAL\\Concrete\\NoteManager.cs",
+              "ToolTip": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.BAL\\Concrete\\NoteManager.cs",
+              "RelativeToolTip": "Pamwork.BAL\\Concrete\\NoteManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:07:53.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "INoteService.cs",
+              "DocumentMoniker": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.BAL\\Abstract\\INoteService.cs",
+              "RelativeDocumentMoniker": "Pamwork.BAL\\Abstract\\INoteService.cs",
+              "ToolTip": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.BAL\\Abstract\\INoteService.cs",
+              "RelativeToolTip": "Pamwork.BAL\\Abstract\\INoteService.cs",
+              "ViewState": "AgIAAAcAAAAAMzMzM7MSwAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:07:43.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pamwork.BAL",
+              "DocumentMoniker": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.BAL\\Pamwork.BAL.csproj",
+              "RelativeDocumentMoniker": "Pamwork.BAL\\Pamwork.BAL.csproj",
+              "ToolTip": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.BAL\\Pamwork.BAL.csproj",
+              "RelativeToolTip": "Pamwork.BAL\\Pamwork.BAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T18:07:15.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EfNoteDal.cs",
+              "DocumentMoniker": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.DAL\\Concrete\\EfNoteDal.cs",
+              "RelativeDocumentMoniker": "Pamwork.DAL\\Concrete\\EfNoteDal.cs",
+              "ToolTip": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.DAL\\Concrete\\EfNoteDal.cs",
+              "RelativeToolTip": "Pamwork.DAL\\Concrete\\EfNoteDal.cs",
+              "ViewState": "AgIAAAcAAAAgzszMzAwvwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:00:10.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PamworkDbContext.cs",
+              "DocumentMoniker": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.DAL\\Concrete\\PamworkDbContext.cs",
+              "RelativeDocumentMoniker": "Pamwork.DAL\\Concrete\\PamworkDbContext.cs",
+              "ToolTip": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.DAL\\Concrete\\PamworkDbContext.cs",
+              "RelativeToolTip": "Pamwork.DAL\\Concrete\\PamworkDbContext.cs",
+              "ViewState": "AgIAAAcAAADg//////8swBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:55:43.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "INoteDal.cs",
+              "DocumentMoniker": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.DAL\\Abstract\\INoteDal.cs",
+              "RelativeDocumentMoniker": "Pamwork.DAL\\Abstract\\INoteDal.cs",
+              "ToolTip": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.DAL\\Abstract\\INoteDal.cs",
+              "RelativeToolTip": "Pamwork.DAL\\Abstract\\INoteDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:52:33.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Pamwork.DAL",
+              "DocumentMoniker": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.DAL\\Pamwork.DAL.csproj",
+              "RelativeDocumentMoniker": "Pamwork.DAL\\Pamwork.DAL.csproj",
+              "ToolTip": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.DAL\\Pamwork.DAL.csproj",
+              "RelativeToolTip": "Pamwork.DAL\\Pamwork.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T17:52:05.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.Entities\\Concrete\\Note.cs",
+              "RelativeDocumentMoniker": "Pamwork.Entities\\Concrete\\Note.cs",
+              "ToolTip": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.Entities\\Concrete\\Note.cs",
+              "RelativeToolTip": "Pamwork.Entities\\Concrete\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:47:53.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EfEntityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Pamwork.Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ToolTip": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeToolTip": "Pamwork.Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:32:02.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataAccessException.cs",
+              "DocumentMoniker": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.Core\\Exceptions\\DataAccessException.cs",
+              "RelativeDocumentMoniker": "Pamwork.Core\\Exceptions\\DataAccessException.cs",
+              "ToolTip": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.Core\\Exceptions\\DataAccessException.cs",
+              "RelativeToolTip": "Pamwork.Core\\Exceptions\\DataAccessException.cs",
+              "ViewState": "AgIAAAAAAACAAAAAAIAZwAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:44:06.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.Core\\DataAccess\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "Pamwork.Core\\DataAccess\\IEntityRepository.cs",
+              "ToolTip": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.Core\\DataAccess\\IEntityRepository.cs",
+              "RelativeToolTip": "Pamwork.Core\\DataAccess\\IEntityRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:29:35.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.Core\\Models\\IEntity.cs",
+              "RelativeDocumentMoniker": "Pamwork.Core\\Models\\IEntity.cs",
+              "ToolTip": "C:\\Projeler\\Pamwork\\Pamwork\\Pamwork.Core\\Models\\IEntity.cs",
+              "RelativeToolTip": "Pamwork.Core\\Models\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:27:32.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

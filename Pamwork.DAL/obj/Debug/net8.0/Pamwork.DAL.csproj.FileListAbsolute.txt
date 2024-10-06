@@ -1,0 +1,17 @@
+C:\Projeler\Pamwork\Pamwork\Pamwork.DAL\bin\Debug\net8.0\Pamwork.DAL.deps.json
+C:\Projeler\Pamwork\Pamwork\Pamwork.DAL\bin\Debug\net8.0\Pamwork.DAL.dll
+C:\Projeler\Pamwork\Pamwork\Pamwork.DAL\bin\Debug\net8.0\Pamwork.DAL.pdb
+C:\Projeler\Pamwork\Pamwork\Pamwork.DAL\obj\Debug\net8.0\Pamwork.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\Pamwork\Pamwork\Pamwork.DAL\obj\Debug\net8.0\Pamwork.DAL.AssemblyInfoInputs.cache
+C:\Projeler\Pamwork\Pamwork\Pamwork.DAL\obj\Debug\net8.0\Pamwork.DAL.AssemblyInfo.cs
+C:\Projeler\Pamwork\Pamwork\Pamwork.DAL\obj\Debug\net8.0\Pamwork.DAL.csproj.CoreCompileInputs.cache
+C:\Projeler\Pamwork\Pamwork\Pamwork.DAL\obj\Debug\net8.0\Pamwork.DAL.dll
+C:\Projeler\Pamwork\Pamwork\Pamwork.DAL\obj\Debug\net8.0\refint\Pamwork.DAL.dll
+C:\Projeler\Pamwork\Pamwork\Pamwork.DAL\obj\Debug\net8.0\Pamwork.DAL.pdb
+C:\Projeler\Pamwork\Pamwork\Pamwork.DAL\obj\Debug\net8.0\ref\Pamwork.DAL.dll
+C:\Projeler\Pamwork\Pamwork\Pamwork.DAL\bin\Debug\net8.0\Pamwork.Core.dll
+C:\Projeler\Pamwork\Pamwork\Pamwork.DAL\bin\Debug\net8.0\Pamwork.Entities.dll
+C:\Projeler\Pamwork\Pamwork\Pamwork.DAL\bin\Debug\net8.0\Pamwork.Entities.pdb
+C:\Projeler\Pamwork\Pamwork\Pamwork.DAL\bin\Debug\net8.0\Pamwork.Core.pdb
+C:\Projeler\Pamwork\Pamwork\Pamwork.DAL\obj\Debug\net8.0\Pamwork.DAL.csproj.AssemblyReference.cache
+C:\Projeler\Pamwork\Pamwork\Pamwork.DAL\obj\Debug\net8.0\Pamwork..86F25331.Up2Date
